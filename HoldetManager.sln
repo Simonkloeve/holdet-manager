@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoldetManager.Application", "HolderManager.Application\HoldetManager.Application.csproj", "{E4ED5D21-F09E-44EC-9744-8DEAECC69BE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoldetManager.Domain", "HoldetManager.Domain\HoldetManager.Domain.csproj", "{57A4CBEE-4B85-4229-BE83-C9E5BB4343CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoldetManager.Infrastructure", "HoldetManager.Infrastructure\HoldetManager.Infrastructure.csproj", "{DE250C55-6EDA-491B-9EFE-A2E49162F676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4ED5D21-F09E-44EC-9744-8DEAECC69BE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4ED5D21-F09E-44EC-9744-8DEAECC69BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4ED5D21-F09E-44EC-9744-8DEAECC69BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4ED5D21-F09E-44EC-9744-8DEAECC69BE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57A4CBEE-4B85-4229-BE83-C9E5BB4343CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57A4CBEE-4B85-4229-BE83-C9E5BB4343CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57A4CBEE-4B85-4229-BE83-C9E5BB4343CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57A4CBEE-4B85-4229-BE83-C9E5BB4343CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE250C55-6EDA-491B-9EFE-A2E49162F676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE250C55-6EDA-491B-9EFE-A2E49162F676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE250C55-6EDA-491B-9EFE-A2E49162F676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE250C55-6EDA-491B-9EFE-A2E49162F676}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
